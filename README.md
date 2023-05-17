@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarenRC11
-- 👀 I’m interested in Machine learning & Business Intelligence
-- 🌱 I’m currently learning Django & Git
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently brushing up SQL & Python
+- 💞️ I’m looking to collaborate on data science & Power BI projects
 - 📫 How to reach me --> karenregleroc@gmail.com
 
 <!---
