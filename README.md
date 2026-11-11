@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @KarenRC11<br>👀 I’m interested in Data Analytics<br>🌱 I’m currently brushing up SQL & Python<br>💞️ I’m looking to collaborate on data science & Power BI projects<br>📫 How to reach me --> karenregleroc@gmail.com
+👋 Hi, I’m @KarenRC11<br>👀 I’m interested in Data Analytics<br>🌱 I’m currently brushing up SQL & Python<br>💞️ I’m looking to collaborate on data science & Power BI projects<br>📫 How to reach me --> karenreglero@gmail.com
 
 
 ## 🌐 Socials:
